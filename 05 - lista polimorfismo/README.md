@@ -21,7 +21,5 @@
 9. Ao criar uma classe chamada `Aluno` e invocar que uma variável `Aluno aluno =  new Aluno();` para exibir em console através de `System.out.println(aluno);`, o resultado é semelhante a `Aluno@6a6824be`. Por quê? 
 10. Ao declarar uma variável do tipo `Aluno aluno = new Aluno();`, e exibi-la em console através de `System.out.println(aluno);` o resultado foi `Aluno@6a6824be`. Considerando que a classe `Aluno` possui os atributos nome e matrícula, como poderíamos definir um método que exiba corretamente essas informações em console? 
 
-11. Crie uma agenda de contatos. Nessa agenda, contatos podem ser adicionados, removidos, ou pesquisados por nome ou por CPF/CNPJ. Deve ser possível, também, visualizar todos os contatos da agenda. Dois tipos de contatos podem fazer parte da agenda: pessoa física e pessoa jurídica. A pessoa física tem os seguintes atributos: CPF, nome, endereço, data de nascimento, email, estado civil. A pessoa jurídica possui: CNPJ, nome, endereço, email, inscrição estadual, razão social, outros que vc achar necessários.
-
 
 <b>Enviar respostas via e-mail: rodolfo.lima.ferreira11@gmail.com</b>
